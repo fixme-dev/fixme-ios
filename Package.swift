@@ -9,8 +9,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PointerKit",
-            url: "https://github.com/fixme-dev/fixme-ios/releases/download/0.1.0/PointerKit.xcframework.zip",
-            checksum: "fe5efed4f01b3348749043f11009446fcc90d202ddf5d6bb7281418e9baa1ffe"
+            url: "https://github.com/fixme-dev/fixme-ios/releases/download/0.1.1/PointerKit.xcframework.zip",
+            checksum: "26374b58d1d32314a022dd4c990ab27be262ea3f8423320068c3218e6cd31a4f"
         ),
     ]
 )
