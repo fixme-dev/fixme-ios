@@ -1,0 +1,12 @@
+FIXME iOS helper (PointerKit) license
+
+Copyright (c) 2026 FIXME (getfixme.dev). All rights reserved.
+
+You may download this framework and include it in the Debug builds of apps you develop, for use with FIXME.
+
+You may not: redistribute the framework on its own; include it in builds you distribute to end users
+(Release, TestFlight or App Store builds); or decompile, disassemble or reverse engineer it, except where
+the law allows this despite this restriction.
+
+The framework is provided "as is", without warranty of any kind. In no event shall the author be liable for
+any claim, damages or other liability arising from its use.
