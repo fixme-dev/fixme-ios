@@ -41,6 +41,11 @@ iOS 16 or later. Xcode 16 or later. FIXME for Mac.
 The helper talks only to your own Mac, on your local network or through FIXME's end-to-end encrypted
 relay. Nothing goes to any other server. It runs only in Debug builds.
 
+## Bugs and ideas
+
+Found a bug, or have an idea? Open an issue at https://github.com/fixme-dev/fixme-issues. Issues there are public, so
+leave out file paths, phone names and anything private. In the FIXME app, Help, then Report a Bug, fills in your versions for you.
+
 ## License
 
 See [LICENSE](LICENSE). The framework is free to use in your apps' Debug builds alongside FIXME.
